@@ -22,3 +22,7 @@ tab_corrida, tab_nutri, tab_news = st.tabs(["Corrida de Rua", "Nutrição", "Not
     <img src="https://github.com/luanappsilvaa/class.py/blob/main/rio%20eats.jpg?raw=true" alt="Descrição da Imagem">
 </body>
 </html>
+
+git add .
+git commit -m "Adicionando imagem ao site"
+git push origin main
