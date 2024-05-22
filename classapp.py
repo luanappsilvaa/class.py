@@ -8,4 +8,4 @@ with st.sidebar:
   st.caption('Criado por Luana P. Silva')
 
 st.write('Mosso aplicativo tem o foco de oferever dicas sobre corrida, nutrição e notícias de saúde')
-tab_corrida, tab_nutri, tab_news = st.tabs(["Corrida de Rua". "Nutrição", "Notícias"])
+tab_corrida, tab_nutri, tab_news = st.tabs(["Corrida de Rua", "Nutrição", "Notícias"])
