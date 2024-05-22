@@ -19,6 +19,6 @@ tab_corrida, tab_nutri, tab_news = st.tabs(["Corrida de Rua", "Nutrição", "Not
 </head>
 <body>
     <h1>Meu Site</h1>
-    <img src="URL_DA_IMAGEM_NO_GITHUB" alt="Descrição da Imagem">
+    <img src="https://github.com/luanappsilvaa/class.py/blob/main/rio%20eats.jpg?raw=true" alt="Descrição da Imagem">
 </body>
 </html>
