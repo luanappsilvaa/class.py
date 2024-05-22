@@ -11,7 +11,7 @@ st.write('Mosso aplicativo tem o foco de oferecer os restaurantes mais próximos
 tab_corrida, tab_nutri, tab_news = st.tabs(["Corrida de Rua", "Nutrição", "Notícias"])
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -19,10 +19,6 @@ tab_corrida, tab_nutri, tab_news = st.tabs(["Corrida de Rua", "Nutrição", "Not
 </head>
 <body>
     <h1>Meu Site</h1>
-    <img src="https://github.com/luanappsilvaa/class.py/blob/main/rio%20eats.jpg?raw=true" alt="Descrição da Imagem">
+    <img src="https://raw.githubusercontent.com/luanappsilvaa/class.py/main/rio%20eats.jpg" alt="Rio Eats">
 </body>
 </html>
-
-git add .
-git commit -m "Adicionando imagem ao site"
-git push origin main
